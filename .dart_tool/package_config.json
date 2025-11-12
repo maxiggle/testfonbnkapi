@@ -435,7 +435,7 @@
     },
     {
       "name": "app",
-      "rootUri": "../packages/app",
+      "rootUri": "../packages/main_app",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     }
