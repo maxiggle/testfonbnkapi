@@ -1,0 +1,16 @@
+name: api_client
+publish_to: none
+
+environment:
+  sdk: ^3.9.2
+resolution: workspace
+
+dependencies:
+  equatable: ^2.0.7
+  http: ^1.6.0
+  logger: ^2.6.2
+  authentication_repository:
+    path: ../authentication_repository
+
+dev_dependencies:
+  test: ^1.25.15
